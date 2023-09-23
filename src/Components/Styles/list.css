@@ -5,12 +5,15 @@ body {
   }
   
   .head {
-    font-family:cursive;
+    font-family:sans-serif;
     font-weight: bold;
     font-size: 2rem;
     color: #333;
     text-align: center;
     margin-top: 2rem;
+  }
+  .head span{
+    color:#2d8888 ;
   }
   
   

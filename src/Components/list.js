@@ -15,7 +15,7 @@ const List = () => {
 
   return (
     <>
-      <h1 className='head text-center mt-5'>Recommended Jobs</h1>
+      <h1 className='head text-center mt-5'>Recommended <span>Jobs</span></h1>
       <div className='menu-items container-fluid'>
         <div className='row'>
           <div className='col-11 mx-auto'>
