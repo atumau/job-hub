@@ -1,0 +1,31 @@
+.sign-up{
+    width: 30%;
+    margin: auto;
+    margin-top: 4%;
+    background: #ccb9f9;
+  border-radius: 5px;
+}
+
+.wrap-signup{
+    height: 100vh;
+
+}
+
+.bg{
+
+    padding-top: 1px;
+    padding-bottom: 10px;
+    background: #ede6fd;
+}
+.heading {
+    text-align: center!important;
+    font-weight: 700;
+    font-size: 27px;
+    font-family: sans-serif;
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 767px) { 
+    .sign-up {
+        width: 90% !important
+    }
+}

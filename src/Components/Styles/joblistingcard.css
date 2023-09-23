@@ -1,0 +1,39 @@
+
+.job-listing-card {
+    background-color: #cfbdfa;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    margin-bottom: 20px;
+    transition: transform 0.2s ease-in-out;
+    
+  }
+  
+  
+  .job-listing-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  
+  .x1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  
+  .x2, .x3, .x4, .x5 {
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+ 
+  .x2 strong, .x3 strong, .x4 strong, .x5 strong {
+    color: #333;
+    font-weight: bold;
+  }
+  
