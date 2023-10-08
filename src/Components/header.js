@@ -27,6 +27,9 @@ const Header = () => {
               </li>
               
             </ul>
+    <Link className="navbar-brand text-white" to="/">
+              <button class="btn btn-primary" type="button">Login</button>
+          </Link>
             
           </div>
         </div>
