@@ -19,10 +19,10 @@ const FeaturedHome = () => {
     <hr/>
     <div className='menu-tabs container'>
       <div className='menu-tab d-flex justify-content-around'>
-        <button className='btn btn-warning'onClick={()=>filterItem('remote')}>Remote</button>
-        <button className='btn btn-warning'onClick={()=>filterItem('office')}>Office</button>
-        <button className='btn btn-warning'onClick={()=>filterItem('fresher')}>Fresher Job</button>
-        <button className='btn btn-warning'onClick={()=>setItems(Menu)}>All</button>
+        <button className='fh-1 btn btn-warning'onClick={()=>filterItem('remote')}>Remote</button>
+        <button className='fh-1 btn btn-warning'onClick={()=>filterItem('office')}>Office</button>
+        <button className='fh-1 btn btn-warning'onClick={()=>filterItem('fresher')}>Fresher Job</button>
+        <button className='fh-1 btn btn-warning'onClick={()=>setItems(Menu)}>All</button>
       </div>
     </div>
     <div className='menu-items container-fluid mt-5'>
