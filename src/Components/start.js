@@ -15,7 +15,7 @@ const Card = () => {
                 <li className='text'>Recruiter</li>
                 <li>Job Seeker</li>
               </ul>
-              <div className="butt mt-3 d-flex gap-4">
+              <div className="butt1 mt-3 d-flex gap-4">
               <Link to='/login2'>
               <button className="btn btn-primary mr-2">Recruiter</button>    
                      </Link>
