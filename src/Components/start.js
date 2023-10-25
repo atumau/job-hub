@@ -20,7 +20,7 @@ const Card = () => {
               <button className="btn btn-primary mr-2">Recruiter</button>    
                      </Link>
                      <Link to='/login'>
-              <button className="btn btn-primary mr-2">Job Seeker</button>    
+              <button className="btn btn-primary mr-2">Seekers</button>    
                      </Link>
               </div>
             </div>
